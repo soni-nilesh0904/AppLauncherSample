@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Companion/MWP-ANDROID" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Covid/RBC-ANDROID" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MVP-Dagger2-RxAndroid" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MWP-ANDROID" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MWP-Companion/MWP-ANDROID" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/OpenBlueCompanion.Android" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RBC-ANDROID" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RBC-Code/RBC-ANDROID" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Unification-Companion/OpenBlueCompanion.Android" vcs="Git" />
+  </component>
+</project>
